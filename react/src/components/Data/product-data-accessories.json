@@ -1,0 +1,30 @@
+[
+    {
+        "id": 17,
+        "name": "Miller",
+        "description": "Leather Luggage Tag",
+        "price": 25.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/R1249WA-BOTTOM.jpg?v=1470259194",
+        "inCart": false,
+        "category": "accessories"
+    },
+    {
+        "id": 18,
+        "name": "Dunbar",
+        "description": "Leather Change Tray",
+        "price": 40.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/R1248BL-TOP.jpg?v=1470432183",
+        "inCart": false,
+        "category": "accessories"
+    },
+    {
+        "id": 19,
+        "name": "Ryder",
+        "description": "Waxed Canvas Dopp Kit",
+        "price": 120.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/L3217OL-FRONT.jpg?v=1470261475",
+        "inCart": false,
+        "category": "accessories"
+    }
+]
+  

@@ -1,0 +1,21 @@
+[
+    {
+        "id": 15,
+        "name": "Ford",
+        "description": "Leather Laptop Bag",
+        "price": 395.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Korchmar_021017_0043_70343d14-361c-409e-b46a-857a0e56c027.jpg?v=1518642455",
+        "inCart": false,
+        "category": "tech"
+    },
+    {
+        "id": 16,
+        "name": "Grant",
+        "description": "Zippered Laptop Bag",
+        "price": 165.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z1068TN-FRONT.jpg?v=1485263656",
+        "inCart": false,
+        "category": "tech"
+    }
+]
+  

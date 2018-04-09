@@ -1,0 +1,165 @@
+[
+    {
+      "id": 1,
+      "name": "Athena",
+      "description": "Leather Briefcase",
+      "price": 440.00,
+      "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z1165CH-FRONT.jpg?v=1470834564",
+      "inCart": false,
+      "category": "business"
+    },
+    {
+        "id": 2,
+        "name": "Gerald",
+        "description": "Leather Attache Briefcase",
+        "price": 550.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Korchmar_021017_0019_8c22e8d7-d8b3-40a0-91c2-a8dda69a4bc6.jpg?v=1518635160",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 3,
+        "name": "Churchill",
+        "description": "Classic Leather Briefcase",
+        "price": 520.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/B1140TN-FRONT.jpg?v=1472215304",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 4,
+        "name": "Garfield",
+        "description": "Waxed Canvas Messenger",
+        "price": 355.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/F1005ES-FRONT.jpg?v=1470258020",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 5,
+        "name": "Ellio",
+        "description": "Leather Flapover Briefcase",
+        "price": 560.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/F1228CO-FRONT.jpg?v=1473276699",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 6,
+        "name": "Wesley",
+        "description": "Slim Leather Briefcase",
+        "price": 340.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z1238WA-BACL.jpg?v=1470256589",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 7,
+        "name": "Williams",
+        "description": "Leather Magnetite Briefcase",
+        "price": 400.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/F1132BL-FRONT-BLACK.jpg?v=1519659594",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 8,
+        "name": "Monroe",
+        "description": "Leather Attache Case",
+        "price": 655.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/A1141-42TN-FRONT_6ad95a0d-a648-43d3-b8fd-8c5081f9165a.jpg?v=1476382022",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 9,
+        "name": "Sawyer",
+        "description": "Slim Leather Briefcase",
+        "price": 490.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z3223OL-FRONT_4377b00c-db56-4a57-9872-5350c391f482.jpg?v=1470261746",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 10,
+        "name": "Jefferson",
+        "description": "17inch Leather Weekender",
+        "price": 620.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/L1247BL-BACK-BLACK.jpg?v=1473252090",
+        "inCart": false,
+        "category": "travel"
+    },
+    {
+        "id": 11,
+        "name": "Kenton",
+        "description": "Wheeled Leather Briefcase",
+        "price": 650.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z1092TN-FRONT.jpg?v=1470259798",
+        "inCart": false,
+        "category": "travel"
+    },
+    {
+        "id": 12,
+        "name": "Taft",
+        "description": "22inch Weekender",
+        "price": 620.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Korchmar_011117_0005_copy.jpg?v=1518793429",
+        "inCart": false,
+        "category": "travel"
+    },
+    {
+        "id": 14,
+        "name": "Twain",
+        "description": "22inch Weekender",
+        "price": 630.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/L3043OL-FRONT.jpg?v=1470344532",
+        "inCart": false,
+        "category": "travel"
+    },
+    {
+        "id": 15,
+        "name": "Ford",
+        "description": "Leather Laptop Bag",
+        "price": 395.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Korchmar_021017_0043_70343d14-361c-409e-b46a-857a0e56c027.jpg?v=1518642455",
+        "inCart": false,
+        "category": "tech"
+    },
+    {
+        "id": 16,
+        "name": "Grant",
+        "description": "Zippered Laptop Bag",
+        "price": 165.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z1068TN-FRONT.jpg?v=1485263656",
+        "inCart": false,
+        "category": "tech"
+    },
+    {
+        "id": 17,
+        "name": "Miller",
+        "description": "Leather Luggage Tag",
+        "price": 25.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/R1249WA-BOTTOM.jpg?v=1470259194",
+        "inCart": false,
+        "category": "accessories"
+    },
+    {
+        "id": 18,
+        "name": "Dunbar",
+        "description": "Leather Change Tray",
+        "price": 40.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/R1248BL-TOP.jpg?v=1470432183",
+        "inCart": false,
+        "category": "accessories"
+    },
+    {
+        "id": 19,
+        "name": "Ryder",
+        "description": "Waxed Canvas Dopp Kit",
+        "price": 120.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/L3217OL-FRONT.jpg?v=1470261475",
+        "inCart": false,
+        "category": "accessories"
+    }
+]
+  

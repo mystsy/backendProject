@@ -1,0 +1,39 @@
+[
+    {
+        "id": 10,
+        "name": "Jefferson",
+        "description": "17inch Leather Weekender",
+        "price": 620.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/L1247BL-BACK-BLACK.jpg?v=1473252090",
+        "inCart": false,
+        "category": "travel"
+    },
+    {
+        "id": 11,
+        "name": "Kenton",
+        "description": "Wheeled Leather Briefcase",
+        "price": 650.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z1092TN-FRONT.jpg?v=1470259798",
+        "inCart": false,
+        "category": "travel"
+    },
+    {
+        "id": 12,
+        "name": "Taft",
+        "description": "22inch Weekender",
+        "price": 620.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Korchmar_011117_0005_copy.jpg?v=1518793429",
+        "inCart": false,
+        "category": "travel"
+    },
+    {
+        "id": 14,
+        "name": "Twain",
+        "description": "22inch Weekender",
+        "price": 630.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/L3043OL-FRONT.jpg?v=1470344532",
+        "inCart": false,
+        "category": "travel"
+    }
+]
+  

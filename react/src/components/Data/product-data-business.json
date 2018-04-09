@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "Athena",
+      "description": "Leather Briefcase",
+      "price": 440.00,
+      "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z1165CH-FRONT.jpg?v=1470834564",
+      "inCart": false,
+      "category": "business"
+    },
+    {
+        "id": 2,
+        "name": "Gerald",
+        "description": "Leather Attache Briefcase",
+        "price": 550.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Korchmar_021017_0019_8c22e8d7-d8b3-40a0-91c2-a8dda69a4bc6.jpg?v=1518635160",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 3,
+        "name": "Churchill",
+        "description": "Classic Leather Briefcase",
+        "price": 520.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/B1140TN-FRONT.jpg?v=1472215304",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 4,
+        "name": "Garfield",
+        "description": "Waxed Canvas Messenger",
+        "price": 355.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/F1005ES-FRONT.jpg?v=1470258020",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 5,
+        "name": "Ellio",
+        "description": "Leather Flapover Briefcase",
+        "price": 560.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/F1228CO-FRONT.jpg?v=1473276699",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 6,
+        "name": "Wesley",
+        "description": "Slim Leather Briefcase",
+        "price": 340.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z1238WA-BACL.jpg?v=1470256589",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 7,
+        "name": "Williams",
+        "description": "Leather Magnetite Briefcase",
+        "price": 400.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/F1132BL-FRONT-BLACK.jpg?v=1519659594",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 8,
+        "name": "Monroe",
+        "description": "Leather Attache Case",
+        "price": 655.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/A1141-42TN-FRONT_6ad95a0d-a648-43d3-b8fd-8c5081f9165a.jpg?v=1476382022",
+        "inCart": false,
+        "category": "business"
+    },
+    {
+        "id": 9,
+        "name": "Sawyer",
+        "description": "Slim Leather Briefcase",
+        "price": 490.00,
+        "img": "https://cdn.shopify.com/s/files/1/1324/6763/products/Z3223OL-FRONT_4377b00c-db56-4a57-9872-5350c391f482.jpg?v=1470261746",
+        "inCart": false,
+        "category": "business"
+    }
+]
+  
